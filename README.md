@@ -4,4 +4,5 @@ The experiments were conducted on three different and reputed age estimation dat
 We have used focal loss as the loss function, as the examples in the classes were insufficient.
 I have built the custom CNN or Convolutional Neural Network for the purpose.
 
+This projet was supervised by Dr. Nabeel Mohammed, Associate Professor, North South University, Dhaka, Bangladesh.
 #It's an academic project for computer vision course. 
